@@ -1,7 +1,5 @@
 # 🛡️ Scam Detection App — Emails & Malicious URLs
 
-![Image](https://github.com/user-attachments/assets/464b8ee6-5f5b-4e29-a8a4-521311eb947e)
-
 A security-focused AI application to detect scam emails and suspicious URLs, built with FastAPI and enhanced with Google Gemini for contextual reasoning
 
 🔍 Project Description
