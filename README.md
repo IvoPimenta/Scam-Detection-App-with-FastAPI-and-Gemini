@@ -3,6 +3,7 @@
 A security-focused AI application to detect scam emails and suspicious URLs, built with FastAPI and enhanced with Google Gemini for contextual reasoning
 
 🔍 Project Description
+
 This project is designed to help protect users from digital fraud by detecting potentially dangerous content in emails and links. It combines traditional validation methods with the advanced contextual understanding of Google Gemini, offering deep analysis and readable reports about risks and threats.
 
 🚀 Features
